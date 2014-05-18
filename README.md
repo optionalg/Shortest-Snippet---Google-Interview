@@ -40,8 +40,7 @@ India - 5, 23
 A "snippet" is a contiguous sequence of words that have at least one
 occurrence of all the words in the search (irrespective of order).
 The "span" of a snippet is defined as the number
-of words from the first to the last word in the
-# of words in the search.
+of words from the first to the last word in the # of words in the search.
 Your job is to find a "snippet" (within the html page) that has
 the smallest span.
 Google does not care about the ordering of the search words.

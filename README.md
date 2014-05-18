@@ -12,14 +12,13 @@ Problem Description
 I hope you have used google. When they show results, they show
 "snippets". If I searched "stormy weather india", it comes with
 several hits, one of which is displayed as:
-===
 Ania Loomba: "The Postcolonial Tempest: Response to Peter Hulm's
 ...Peter Hulme's 'Stormy Weather' is, as the author remarks, ... As I
 started to write this response in New Delhi, India, it seemed to me even
 more important ...
 eserver.org/emc/1-3/loomba.html - 32k - Cached - Similar pages - Remove
 result
-===
+
 The words "Stormy", "Weather" and "India" are shown in bold.
 
 Let's suppose you are writing a display routine for "google search".
